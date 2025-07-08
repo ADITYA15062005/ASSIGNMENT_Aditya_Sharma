@@ -1,0 +1,15 @@
+ultralytics
+
+opencv-python
+
+deep_sort_realtime
+
+torchvision
+
+torch
+
+numpy
+
+tqdm
+
+scikit-learn
