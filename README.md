@@ -44,13 +44,13 @@ Change VIDEO_PATH and OUTPUT_FOLDER in the script for broadcast.mp4 and tacticam
 
 Run this for both crops/broadcast and crops/tacticam:
 
-python extract_features.py
+python feature_extraction.py
 
 Change CROP_FOLDER and FEATURES_SAVE_PATH in the script.
 
 3. Match Players Across Videos
 
-python match_players.py
+python player_matching.py
 
 This will output player matches between the two camera feeds.
 
